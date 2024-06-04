@@ -52,7 +52,7 @@ Microsoft Visual Studio Community 2022
 
 ![image](https://github.com/igor2204/Tovars/assets/117898131/f3f29c7e-c128-41a9-b604-e3e542292c15)
 
-Набрать данные и нажать на кнопку «Сохранить в файл»
+Набрать данные и нажать на кнопку «Сохранить файл»
 
 ![image](https://github.com/igor2204/Tovars/assets/117898131/7bfa4748-87c2-4b82-9bcb-7367de6d468e)
 
