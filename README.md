@@ -32,21 +32,21 @@ Microsoft Visual Studio Community 2022
 
 Ввести данные и нажать на кнопку «Добавить»
    
-![image](https://github.com/igor2204/Tovars/assets/117898131/d4f79e23-a74d-4a84-acec-13a6ff306912)
+![image](https://github.com/igor2204/Tovars/assets/117898131/67f98c56-e404-442f-af72-33d038cd45c6)
 
 Выбрать нужную строку в таблице и нажать кнопку «Удалить товар»
 
-![image](https://github.com/igor2204/Tovars/assets/117898131/2959bcf8-f9ee-4934-81f9-c5e5538d68c7)
+![image](https://github.com/igor2204/Tovars/assets/117898131/5b4d7739-afb2-4aa2-b72b-d5bd1346cc52)
 
 Для удаления всех товаров следует нажать на кнопку «Удалить все»
 
-![image](https://github.com/igor2204/Tovars/assets/117898131/96930bee-525a-4680-bdd5-7240fa79c678)
+![image](https://github.com/igor2204/Tovars/assets/117898131/9682e2c8-e675-4499-9f4b-8c62ef5967fd)
 
 ### Задача: «Открытие файла и сохранение файла»
 
 Нажать на кнопку «Открыть файл»
 
-![image](https://github.com/igor2204/Tovars/assets/117898131/17883e14-2ed4-402c-9a7a-dc4f675e83e1)
+![image](https://github.com/igor2204/Tovars/assets/117898131/ffef5634-2cbe-43f4-b563-de5ea7873b7f)
 
 Выбрать нужный текстовый файл и нажать кнопку «Открыть»
 
@@ -54,7 +54,7 @@ Microsoft Visual Studio Community 2022
 
 Набрать данные и нажать на кнопку «Сохранить файл»
 
-![image](https://github.com/igor2204/Tovars/assets/117898131/7bfa4748-87c2-4b82-9bcb-7367de6d468e)
+![image](https://github.com/igor2204/Tovars/assets/117898131/545c85a0-503e-47c0-9248-b51dc180f480)
 
 Выбрать место для сохранения, назвать файл и нажать на кнопку «Сохранить»
 
